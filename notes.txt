@@ -5,3 +5,4 @@ I created login feature branch in master branch
 
 I created login feature branch practically
 
+Developer B added this line
